@@ -2,7 +2,7 @@
 
 Welcome to the GitHub repository for UltraISO Portable version 9.7.6.3829! This repository provides the fully activated portable version of UltraISO, a powerful tool for creating, editing, and converting ISO image files.
 
-![UltraISO Logo](https://www.ultraiso.com/images/logo.png)
+![UltraISO](https://github.com/whalelinguni/UltraISO-Portable/blob/main/UltraISO.png?raw=true)
 
 ## About UltraISO
 
