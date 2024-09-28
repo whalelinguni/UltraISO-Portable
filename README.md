@@ -1,6 +1,12 @@
 # UltraISO Portable Version 9.7.6.3829 (Fully Activated)
 
-Welcome to the GitHub repository for UltraISO Portable version 9.7.6.3829! This repository provides the fully activated portable version of UltraISO, a powerful tool for creating, editing, and converting ISO image files.
+UltraISO Portable version 9.7.6.3829
+
+# Update Spet 2024:
+
+## Version is still the latest.
+
+## Fixed issue where reg keys were not cleaned up when app is closed.
 
 ![UltraISO](https://github.com/whalelinguni/UltraISO-Portable/blob/main/UltraISO.png?raw=true)
 
