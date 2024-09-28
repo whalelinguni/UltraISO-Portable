@@ -4,9 +4,9 @@ UltraISO Portable version 9.7.6.3829
 
 # Update Spet 2024:
 
-## Version is still the latest.
+ - Version is still the latest.
 
-## Fixed issue where reg keys were not cleaned up when app is closed.
+- Fixed issue where reg keys were not cleaned up when app is closed.
 
 ![UltraISO](https://github.com/whalelinguni/UltraISO-Portable/blob/main/UltraISO.png?raw=true)
 
