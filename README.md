@@ -1,12 +1,11 @@
 # UltraISO Portable Version 9.7.6.3829 (Fully Activated)
-
 UltraISO Portable version 9.7.6.3829
 
 # Update Spet 2024:
-
- - Version is still the latest.
-
 - Fixed issue where reg keys were not cleaned up when app is closed.
+- UltraISOPortable_9.7.6.paf(Fixed).exe
+- 9.7.6.3829 is still the latest.
+
 
 ![UltraISO](https://github.com/whalelinguni/UltraISO-Portable/blob/main/UltraISO.png?raw=true)
 
